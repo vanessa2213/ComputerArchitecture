@@ -1,0 +1,206 @@
+C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_PCorJType.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_PCorJType.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package mux_PCorJType_sv_unit
+-- Importing package the_pkg
+-- Compiling module mux_PCorJType
+
+Top level modules:
+	mux_PCorJType
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ItypeorJType.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ItypeorJType.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package mux_ItypeorJType_sv_unit
+-- Importing package the_pkg
+-- Compiling module mux_ItypeorJType
+
+Top level modules:
+	mux_ItypeorJType
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/MIPS.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/MIPS.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package MIPS_sv_unit
+-- Importing package the_pkg
+-- Compiling module MIPS
+
+Top level modules:
+	MIPS
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_bne.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_bne.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package mux_bne_sv_unit
+-- Importing package the_pkg
+-- Compiling module mux_bne
+
+Top level modules:
+	mux_bne
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mips_single_core_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mips_single_core_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package mips_single_core_tb_sv_unit
+-- Importing package the_pkg
+-- Compiling module mips_single_core_tb
+
+Top level modules:
+	mips_single_core_tb
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_rd.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_rd.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package mux_rd_sv_unit
+-- Importing package the_pkg
+-- Compiling module mux_rd
+
+Top level modules:
+	mux_rd
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/instruction_decoder.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/instruction_decoder.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package instruction_decoder_sv_unit
+-- Importing package the_pkg
+-- Compiling module instruction_decoder
+
+Top level modules:
+	instruction_decoder
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_beqorbne.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_beqorbne.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package mux_beqorbne_sv_unit
+-- Importing package the_pkg
+-- Compiling module mux_beqorbne
+
+Top level modules:
+	mux_beqorbne
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/next_pc.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/next_pc.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package next_pc_sv_unit
+-- Importing package the_pkg
+-- Compiling module next_pc
+
+Top level modules:
+	next_pc
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_beq.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_beq.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package mux_beq_sv_unit
+-- Importing package the_pkg
+-- Compiling module mux_beq
+
+Top level modules:
+	mux_beq
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/the_pkg.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/the_pkg.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package the_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/ALU.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/ALU.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package ALU_sv_unit
+-- Importing package the_pkg
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_Data.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_Data.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package mux_Data_sv_unit
+-- Importing package the_pkg
+-- Compiling module mux_Data
+
+Top level modules:
+	mux_Data
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_dmadd.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_dmadd.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package mux_dmadd_sv_unit
+-- Importing package the_pkg
+-- Compiling module mux_dmadd
+
+Top level modules:
+	mux_dmadd
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ImmorReg1.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ImmorReg1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package mux_ImmorReg1_sv_unit
+-- Importing package the_pkg
+-- Compiling module mux_ImmorReg1
+
+Top level modules:
+	mux_ImmorReg1
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_Imm.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_Imm.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package mux_Imm_sv_unit
+-- Importing package the_pkg
+-- Compiling module mux_Imm
+
+Top level modules:
+	mux_Imm
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/controller.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/controller.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package controller_sv_unit
+-- Importing package the_pkg
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ALU1.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ALU1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package mux_ALU1_sv_unit
+-- Importing package the_pkg
+-- Compiling module mux_ALU1
+
+Top level modules:
+	mux_ALU1
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/rom.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/rom.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package rom_sv_unit
+-- Importing package the_pkg
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/regfile.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/regfile.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package regfile_sv_unit
+-- Importing package the_pkg
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_rs.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_rs.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package mux_rs_sv_unit
+-- Importing package the_pkg
+-- Compiling module mux_rs
+
+Top level modules:
+	mux_rs
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_dmqorPC.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_dmqorPC.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package mux_dmqorPC_sv_unit
+-- Importing package the_pkg
+-- Compiling module mux_dmqorPC
+
+Top level modules:
+	mux_dmqorPC
+
+} {} {}} C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/ram.sv {1 {vlog -work work -sv -stats=none C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/ram.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package ram_sv_unit
+-- Importing package the_pkg
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}}

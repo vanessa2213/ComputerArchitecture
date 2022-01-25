@@ -1,0 +1,1178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE
+vALU
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 DXx4 work 7 the_pkg 0 22 B@g@aC8Pd3J>OkkLK`KVz3
+DXx4 work 11 ALU_sv_unit 0 22 `<5R:]94A?INzUfNY:TZA2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 R0of6Od1=YIKN;>8D^co@1
+I2l9S?M3_ljKSKXT@DW7GI3
+!s105 ALU_sv_unit
+S1
+R0
+Z4 w1572029808
+Z5 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/ALU.sv
+Z6 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/ALU.sv
+L0 3
+Z7 OV;L;10.5b;63
+Z8 !s108 1573177873.000000
+Z9 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/ALU.sv|
+Z10 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/ALU.sv|
+!i113 1
+Z11 o-work work -sv
+Z12 tCvgOpt 0
+n@a@l@u
+XALU_sv_unit
+R1
+R2
+V`<5R:]94A?INzUfNY:TZA2
+r1
+!s85 0
+31
+!i10b 1
+!s100 3^:4oKZeaBZa[i`gL4?C50
+I`<5R:]94A?INzUfNY:TZA2
+!i103 1
+S1
+R0
+R4
+R5
+R6
+L0 1
+R7
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@a@l@u_sv_unit
+vcontroller
+R1
+R2
+DXx4 work 18 controller_sv_unit 0 22 0[Pf=B6PMcBM`ZnZl`A6b0
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]L7fH5jW4IjT5UbMSSX721
+I@ZL9[n7k3G@TnH:WN<G1k3
+!s105 controller_sv_unit
+S1
+R0
+Z13 w1572213975
+Z14 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/controller.sv
+Z15 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/controller.sv
+L0 4
+R7
+Z16 !s108 1573177874.000000
+Z17 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/controller.sv|
+Z18 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/controller.sv|
+!i113 1
+R11
+R12
+Xcontroller_sv_unit
+R1
+R2
+V0[Pf=B6PMcBM`ZnZl`A6b0
+r1
+!s85 0
+31
+!i10b 1
+!s100 In6gaFGg@zJ;V_hVNWamV2
+I0[Pf=B6PMcBM`ZnZl`A6b0
+!i103 1
+S1
+R0
+R13
+R14
+R15
+L0 1
+R7
+R16
+R17
+R18
+!i113 1
+R11
+R12
+vinstruction_decoder
+R1
+R2
+DXx4 work 27 instruction_decoder_sv_unit 0 22 emcUg:6WaGP`l0@4l5E[51
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 86Oe;B4i1DTZdo2P7CciS1
+I<3IYRX;WOA7B?kG1o@6kz2
+!s105 instruction_decoder_sv_unit
+S1
+R0
+Z19 w1572064630
+Z20 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/instruction_decoder.sv
+Z21 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/instruction_decoder.sv
+L0 3
+R7
+R16
+Z22 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/instruction_decoder.sv|
+Z23 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/instruction_decoder.sv|
+!i113 1
+R11
+R12
+Xinstruction_decoder_sv_unit
+R1
+R2
+VemcUg:6WaGP`l0@4l5E[51
+r1
+!s85 0
+31
+!i10b 1
+!s100 zmZOf55zRRIB3KhN<E4EA1
+IemcUg:6WaGP`l0@4l5E[51
+!i103 1
+S1
+R0
+R19
+R20
+R21
+L0 1
+R7
+R16
+R22
+R23
+!i113 1
+R11
+R12
+vMIPS
+R1
+R2
+DXx4 work 12 MIPS_sv_unit 0 22 P6S[RbOob6YM;EW43Oi343
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 9VM30`QZoJ9JZW1k>8aKZ1
+Il>4nRUo>Jm<4H_a[7l;[E3
+!s105 MIPS_sv_unit
+S1
+R0
+Z24 w1572217250
+Z25 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/MIPS.sv
+Z26 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/MIPS.sv
+L0 3
+R7
+Z27 !s108 1573177876.000000
+Z28 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/MIPS.sv|
+Z29 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/MIPS.sv|
+!i113 1
+R11
+R12
+n@m@i@p@s
+vmips_single_core_tb
+R1
+R2
+DXx4 work 27 mips_single_core_tb_sv_unit 0 22 If8lKAl7RYXWSB;_0UQAH1
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 MA=VMHz5ogY[75<<ML9dH0
+IC^H0cdL1EoJ7YeU7DJbYL3
+!s105 mips_single_core_tb_sv_unit
+S1
+R0
+Z30 w1572060094
+Z31 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mips_single_core_tb.sv
+Z32 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mips_single_core_tb.sv
+L0 3
+R7
+Z33 !s108 1573177889.000000
+Z34 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mips_single_core_tb.sv|
+Z35 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mips_single_core_tb.sv|
+!i113 1
+R11
+R12
+Xmips_single_core_tb_sv_unit
+R1
+R2
+VIf8lKAl7RYXWSB;_0UQAH1
+r1
+!s85 0
+31
+!i10b 1
+!s100 JR_U;[IchBNiEV_4ij82h1
+IIf8lKAl7RYXWSB;_0UQAH1
+!i103 1
+S1
+R0
+R30
+R31
+R32
+L0 1
+R7
+R33
+R34
+R35
+!i113 1
+R11
+R12
+XMIPS_sv_unit
+R1
+R2
+VP6S[RbOob6YM;EW43Oi343
+r1
+!s85 0
+31
+!i10b 1
+!s100 @X:Uh6ja40j=Z[m_0V5<U0
+IP6S[RbOob6YM;EW43Oi343
+!i103 1
+S1
+R0
+R24
+R25
+R26
+L0 1
+R7
+R27
+R28
+R29
+!i113 1
+R11
+R12
+n@m@i@p@s_sv_unit
+vmux_ALU1
+R1
+R2
+DXx4 work 16 mux_ALU1_sv_unit 0 22 B4niJfY7G_1I96lF;ImK?0
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?IJjh9Rn;:j]51cfzbbnI3
+IkoNU<g:G?cc_m<F=LgTBM0
+!s105 mux_ALU1_sv_unit
+S1
+R0
+Z36 w1571965487
+Z37 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ALU1.sv
+Z38 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ALU1.sv
+L0 3
+R7
+R27
+Z39 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ALU1.sv|
+Z40 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ALU1.sv|
+!i113 1
+R11
+R12
+nmux_@a@l@u1
+Xmux_ALU1_sv_unit
+R1
+R2
+VB4niJfY7G_1I96lF;ImK?0
+r1
+!s85 0
+31
+!i10b 1
+!s100 bD_[Y;CKGZdDmdRbEakSn3
+IB4niJfY7G_1I96lF;ImK?0
+!i103 1
+S1
+R0
+R36
+R37
+R38
+L0 1
+R7
+R27
+R39
+R40
+!i113 1
+R11
+R12
+nmux_@a@l@u1_sv_unit
+vmux_beq
+R1
+R2
+DXx4 work 15 mux_beq_sv_unit 0 22 MV414H>mN]dClF6UN>78?2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 6gVF46H6VU2z:L1Djba=L2
+I69b1R5<^Si2fnXnFRlV;U2
+!s105 mux_beq_sv_unit
+S1
+R0
+Z41 w1572044395
+Z42 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_beq.sv
+Z43 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_beq.sv
+L0 3
+R7
+Z44 !s108 1573177877.000000
+Z45 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_beq.sv|
+Z46 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_beq.sv|
+!i113 1
+R11
+R12
+Xmux_beq_sv_unit
+R1
+R2
+VMV414H>mN]dClF6UN>78?2
+r1
+!s85 0
+31
+!i10b 1
+!s100 XXgJ<KV][DkcHjSN[`7W>2
+IMV414H>mN]dClF6UN>78?2
+!i103 1
+S1
+R0
+R41
+R42
+R43
+L0 1
+R7
+R44
+R45
+R46
+!i113 1
+R11
+R12
+vmux_beqorbne
+R1
+R2
+DXx4 work 20 mux_beqorbne_sv_unit 0 22 >:?b^zQ2;BJo6:NSGIeVL2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 I]ib>BInffT9:YZj7]TKC0
+I`8=ooTL1Y;ET56F5:^UeF3
+!s105 mux_beqorbne_sv_unit
+S1
+R0
+Z47 w1572046394
+Z48 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_beqorbne.sv
+Z49 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_beqorbne.sv
+L0 3
+R7
+R44
+Z50 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_beqorbne.sv|
+Z51 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_beqorbne.sv|
+!i113 1
+R11
+R12
+Xmux_beqorbne_sv_unit
+R1
+R2
+V>:?b^zQ2;BJo6:NSGIeVL2
+r1
+!s85 0
+31
+!i10b 1
+!s100 39Y2i4iL=N7XXmTfog_Mz1
+I>:?b^zQ2;BJo6:NSGIeVL2
+!i103 1
+S1
+R0
+R47
+R48
+R49
+L0 1
+R7
+R44
+R50
+R51
+!i113 1
+R11
+R12
+vmux_bne
+R1
+R2
+DXx4 work 15 mux_bne_sv_unit 0 22 T15b6M38dLMP0gW52gINI2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 ai5MGCFCR<?nDPnh5BUQP2
+I`WGo2^fCkTMdzF_Jdl>bB1
+!s105 mux_bne_sv_unit
+S1
+R0
+R41
+Z52 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_bne.sv
+Z53 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_bne.sv
+L0 3
+R7
+Z54 !s108 1573177878.000000
+Z55 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_bne.sv|
+Z56 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_bne.sv|
+!i113 1
+R11
+R12
+Xmux_bne_sv_unit
+R1
+R2
+VT15b6M38dLMP0gW52gINI2
+r1
+!s85 0
+31
+!i10b 1
+!s100 0MbR@BdTVBYDS;@MIY=TM2
+IT15b6M38dLMP0gW52gINI2
+!i103 1
+S1
+R0
+R41
+R52
+R53
+L0 1
+R7
+R54
+R55
+R56
+!i113 1
+R11
+R12
+vmux_Data
+R1
+R2
+DXx4 work 16 mux_Data_sv_unit 0 22 [;0nzcB=HL8C@oL2d0EMM1
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 A6:`:[iODGWm^=m0KISAh3
+I<B0K`b8N]jf_afYHeYO]_2
+!s105 mux_Data_sv_unit
+S1
+R0
+Z57 w1572044703
+Z58 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_Data.sv
+Z59 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_Data.sv
+L0 2
+R7
+R54
+Z60 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_Data.sv|
+Z61 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_Data.sv|
+!i113 1
+R11
+R12
+nmux_@data
+Xmux_Data_sv_unit
+R1
+R2
+V[;0nzcB=HL8C@oL2d0EMM1
+r1
+!s85 0
+31
+!i10b 1
+!s100 TMBXBodM;]FT4;5YFQoHF0
+I[;0nzcB=HL8C@oL2d0EMM1
+!i103 1
+S1
+R0
+R57
+R58
+R59
+L0 1
+R7
+R54
+R60
+R61
+!i113 1
+R11
+R12
+nmux_@data_sv_unit
+vmux_dmadd
+R1
+R2
+DXx4 work 17 mux_dmadd_sv_unit 0 22 J4abLG3DR79:YB>GH]Z0o2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 6PXD7eGSIOn_z8=QV6h=m3
+I9TfBNCjmm77IMme?=XgmY3
+!s105 mux_dmadd_sv_unit
+S1
+R0
+Z62 w1571966396
+Z63 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_dmadd.sv
+Z64 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_dmadd.sv
+L0 3
+R7
+Z65 !s108 1573177879.000000
+Z66 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_dmadd.sv|
+Z67 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_dmadd.sv|
+!i113 1
+R11
+R12
+Xmux_dmadd_sv_unit
+R1
+R2
+VJ4abLG3DR79:YB>GH]Z0o2
+r1
+!s85 0
+31
+!i10b 1
+!s100 <MIJoMf8WYDkUO^eS59A=3
+IJ4abLG3DR79:YB>GH]Z0o2
+!i103 1
+S1
+R0
+R62
+R63
+R64
+L0 1
+R7
+R65
+R66
+R67
+!i113 1
+R11
+R12
+vmux_dmqorPC
+R1
+R2
+DXx4 work 19 mux_dmqorPC_sv_unit 0 22 ?`L=I7`4SfOTK<5Co`Ghz1
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 Nki00;=1M@^XH01TGWOm`2
+INok]W^KTVQNgcn^9lbF`i3
+!s105 mux_dmqorPC_sv_unit
+S1
+R0
+Z68 w1572046550
+Z69 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_dmqorPC.sv
+Z70 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_dmqorPC.sv
+L0 2
+R7
+Z71 !s108 1573177880.000000
+Z72 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_dmqorPC.sv|
+Z73 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_dmqorPC.sv|
+!i113 1
+R11
+R12
+nmux_dmqor@p@c
+Xmux_dmqorPC_sv_unit
+R1
+R2
+V?`L=I7`4SfOTK<5Co`Ghz1
+r1
+!s85 0
+31
+!i10b 1
+!s100 XH;@SQkVHEhz[hde?3D3k2
+I?`L=I7`4SfOTK<5Co`Ghz1
+!i103 1
+S1
+R0
+R68
+R69
+R70
+L0 1
+R7
+R71
+R72
+R73
+!i113 1
+R11
+R12
+nmux_dmqor@p@c_sv_unit
+vmux_extend
+R1
+R2
+DXx4 work 18 mux_extend_sv_unit 0 22 9^5RYHoh9gQh[kL[0hUd=0
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 oGGiFVJYQ6X9[1koWa_FZ1
+I03KFO:7oDDhAemTP^[5Od0
+!s105 mux_extend_sv_unit
+S1
+R0
+Z74 w1572056568
+Z75 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_extend.sv
+Z76 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_extend.sv
+L0 3
+R7
+Z77 !s108 1573177881.000000
+Z78 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_extend.sv|
+Z79 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_extend.sv|
+!i113 1
+R11
+R12
+Xmux_extend_sv_unit
+R1
+R2
+V9^5RYHoh9gQh[kL[0hUd=0
+r1
+!s85 0
+31
+!i10b 1
+!s100 zD?WB9n:cjlejXW8XG2Ff0
+I9^5RYHoh9gQh[kL[0hUd=0
+!i103 1
+S1
+R0
+R74
+R75
+R76
+L0 1
+R7
+R77
+R78
+R79
+!i113 1
+R11
+R12
+vmux_Imm
+R1
+R2
+DXx4 work 15 mux_Imm_sv_unit 0 22 T:EQS_<AE2YKMEZ12k;;K0
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^jK6m7@R[4<7ZOd1@WHMn0
+Ig=;z4GCXHEDnJ35Df?=H@3
+!s105 mux_Imm_sv_unit
+S1
+R0
+Z80 w1571965554
+Z81 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_Imm.sv
+Z82 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_Imm.sv
+L0 3
+R7
+R77
+Z83 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_Imm.sv|
+Z84 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_Imm.sv|
+!i113 1
+R11
+R12
+nmux_@imm
+Xmux_Imm_sv_unit
+R1
+R2
+VT:EQS_<AE2YKMEZ12k;;K0
+r1
+!s85 0
+31
+!i10b 1
+!s100 f97k73lEO8XlFDU`zXV:D0
+IT:EQS_<AE2YKMEZ12k;;K0
+!i103 1
+S1
+R0
+R80
+R81
+R82
+L0 1
+R7
+R77
+R83
+R84
+!i113 1
+R11
+R12
+nmux_@imm_sv_unit
+vmux_ImmorReg1
+R1
+R2
+DXx4 work 21 mux_ImmorReg1_sv_unit 0 22 @6?W]We_@69n@]ZZ:U:011
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 CahO0JC607CQgbCEh];Jo2
+I;J^FaUfHVNm4CXI[T5R2T0
+!s105 mux_ImmorReg1_sv_unit
+S1
+R0
+Z85 w1572057607
+Z86 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ImmorReg1.sv
+Z87 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ImmorReg1.sv
+L0 3
+R7
+Z88 !s108 1573177882.000000
+Z89 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ImmorReg1.sv|
+Z90 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ImmorReg1.sv|
+!i113 1
+R11
+R12
+nmux_@immor@reg1
+Xmux_ImmorReg1_sv_unit
+R1
+R2
+V@6?W]We_@69n@]ZZ:U:011
+r1
+!s85 0
+31
+!i10b 1
+!s100 MA[Z<8f:<^B7G9A_U7gRR1
+I@6?W]We_@69n@]ZZ:U:011
+!i103 1
+S1
+R0
+R85
+R86
+R87
+L0 1
+R7
+R88
+R89
+R90
+!i113 1
+R11
+R12
+nmux_@immor@reg1_sv_unit
+vmux_ItypeorJType
+R1
+R2
+DXx4 work 24 mux_ItypeorJType_sv_unit 0 22 5U66;a6oTbFQ;A@U:Wg]P2
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 cR67^F8?i:e2X7f_;DRhA0
+I?Y80::SVS:MB_?zjB[j4O3
+!s105 mux_ItypeorJType_sv_unit
+S1
+R0
+Z91 w1571968978
+Z92 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ItypeorJType.sv
+Z93 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ItypeorJType.sv
+L0 3
+R7
+Z94 !s108 1573177883.000000
+Z95 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ItypeorJType.sv|
+Z96 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_ItypeorJType.sv|
+!i113 1
+R11
+R12
+nmux_@itypeor@j@type
+Xmux_ItypeorJType_sv_unit
+R1
+R2
+V5U66;a6oTbFQ;A@U:Wg]P2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ;SMNiBA>Tc4Bo2bXA32X41
+I5U66;a6oTbFQ;A@U:Wg]P2
+!i103 1
+S1
+R0
+R91
+R92
+R93
+L0 1
+R7
+R94
+R95
+R96
+!i113 1
+R11
+R12
+nmux_@itypeor@j@type_sv_unit
+vmux_PCorJType
+R1
+R2
+DXx4 work 21 mux_PCorJType_sv_unit 0 22 ]ZUOGS7:GoGJM<JhR?Xc71
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 >@@KW84CR4[J>0jN@5fab2
+Iof3b4[DFSM21LN4UahdlA3
+!s105 mux_PCorJType_sv_unit
+S1
+R0
+Z97 w1572058742
+Z98 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_PCorJType.sv
+Z99 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_PCorJType.sv
+L0 3
+R7
+Z100 !s108 1573177884.000000
+Z101 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_PCorJType.sv|
+Z102 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_PCorJType.sv|
+!i113 1
+R11
+R12
+nmux_@p@cor@j@type
+Xmux_PCorJType_sv_unit
+R1
+R2
+V]ZUOGS7:GoGJM<JhR?Xc71
+r1
+!s85 0
+31
+!i10b 1
+!s100 _lhNQCQ3gz@B^e:L5S8Cf0
+I]ZUOGS7:GoGJM<JhR?Xc71
+!i103 1
+S1
+R0
+R97
+R98
+R99
+L0 1
+R7
+R100
+R101
+R102
+!i113 1
+R11
+R12
+nmux_@p@cor@j@type_sv_unit
+vmux_rd
+R1
+R2
+DXx4 work 14 mux_rd_sv_unit 0 22 6N0Go86nK82F5Z_fJoTOc3
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 DohC2R<37Y6=9l6UAZY`A3
+IT2F;KgE5Dlk3df_bb717=2
+!s105 mux_rd_sv_unit
+S1
+R0
+Z103 w1571977979
+Z104 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_rd.sv
+Z105 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_rd.sv
+L0 3
+R7
+R100
+Z106 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_rd.sv|
+Z107 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_rd.sv|
+!i113 1
+R11
+R12
+Xmux_rd_sv_unit
+R1
+R2
+V6N0Go86nK82F5Z_fJoTOc3
+r1
+!s85 0
+31
+!i10b 1
+!s100 N[H@T5VR]H81=DBe5>ce>3
+I6N0Go86nK82F5Z_fJoTOc3
+!i103 1
+S1
+R0
+R103
+R104
+R105
+L0 1
+R7
+R100
+R106
+R107
+!i113 1
+R11
+R12
+vmux_rs
+R1
+R2
+DXx4 work 14 mux_rs_sv_unit 0 22 hb9zNV8bemKKF9`D_9ZCa1
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 `hl3:D>n1fN[7=e8HL9>70
+IRRE?[_kjOf13a[SL4Y^dm1
+!s105 mux_rs_sv_unit
+S1
+R0
+Z108 w1572046555
+Z109 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_rs.sv
+Z110 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_rs.sv
+L0 3
+R7
+Z111 !s108 1573177885.000000
+Z112 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_rs.sv|
+Z113 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/mux_rs.sv|
+!i113 1
+R11
+R12
+Xmux_rs_sv_unit
+R1
+R2
+Vhb9zNV8bemKKF9`D_9ZCa1
+r1
+!s85 0
+31
+!i10b 1
+!s100 `AdTIDo5gX4W^h5XBhXkY1
+Ihb9zNV8bemKKF9`D_9ZCa1
+!i103 1
+S1
+R0
+R108
+R109
+R110
+L0 1
+R7
+R111
+R112
+R113
+!i113 1
+R11
+R12
+vnext_pc
+R1
+R2
+DXx4 work 15 next_pc_sv_unit 0 22 ?2h;D0YQ6dU6_7>TTkkOE1
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 CN:RB7YnMQmSzGdazaJEf0
+I^WTH[cDoe9;CzSSYSa_?W1
+!s105 next_pc_sv_unit
+S1
+R0
+Z114 w1572044708
+Z115 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/next_pc.sv
+Z116 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/next_pc.sv
+L0 3
+R7
+Z117 !s108 1573177886.000000
+Z118 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/next_pc.sv|
+Z119 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/next_pc.sv|
+!i113 1
+R11
+R12
+Xnext_pc_sv_unit
+R1
+R2
+V?2h;D0YQ6dU6_7>TTkkOE1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]?DWGl^I<d8jaIP^h3PVF1
+I?2h;D0YQ6dU6_7>TTkkOE1
+!i103 1
+S1
+R0
+R114
+R115
+R116
+L0 1
+R7
+R117
+R118
+R119
+!i113 1
+R11
+R12
+vram
+R1
+R2
+DXx4 work 11 ram_sv_unit 0 22 caiFb<_@A?L^M9Kl8TdVk0
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 DXiAY`d<:9lXhjhk2fJ1h1
+I:65fRo6EiWgQSNPf]lfCX3
+!s105 ram_sv_unit
+S1
+R0
+Z120 w1572051702
+Z121 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/ram.sv
+Z122 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/ram.sv
+L0 3
+R7
+Z123 !s108 1573177887.000000
+Z124 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/ram.sv|
+Z125 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/ram.sv|
+!i113 1
+R11
+R12
+Xram_sv_unit
+R1
+R2
+VcaiFb<_@A?L^M9Kl8TdVk0
+r1
+!s85 0
+31
+!i10b 1
+!s100 =E288RgcP]7<F?OBD[f1A0
+IcaiFb<_@A?L^M9Kl8TdVk0
+!i103 1
+S1
+R0
+R120
+R121
+R122
+L0 1
+R7
+R123
+R124
+R125
+!i113 1
+R11
+R12
+vregfile
+R1
+R2
+DXx4 work 15 regfile_sv_unit 0 22 Ti>L3ZGWh>`BW@[:_14iD0
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 K?3@U91LY0@;fe5bo1Uh`3
+I`g6dS9DJeUBzd`gjE<>LO0
+!s105 regfile_sv_unit
+S1
+R0
+R41
+Z126 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/regfile.sv
+Z127 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/regfile.sv
+L0 3
+R7
+Z128 !s108 1573177888.000000
+Z129 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/regfile.sv|
+Z130 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/regfile.sv|
+!i113 1
+R11
+R12
+Xregfile_sv_unit
+R1
+R2
+VTi>L3ZGWh>`BW@[:_14iD0
+r1
+!s85 0
+31
+!i10b 1
+!s100 i1P_2z59zUK=DmIFR0CN92
+ITi>L3ZGWh>`BW@[:_14iD0
+!i103 1
+S1
+R0
+R41
+R126
+R127
+L0 1
+R7
+R128
+R129
+R130
+!i113 1
+R11
+R12
+vrom
+R1
+R2
+DXx4 work 11 rom_sv_unit 0 22 Ykf[5;YXOmKRhV]CE_KV73
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 HP18kVKNgg1LSZIB5@BXB0
+I8cnCK6:aVdGI4;5QGd>eG1
+!s105 rom_sv_unit
+S1
+R0
+Z131 w1572217262
+Z132 8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/rom.sv
+Z133 FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/rom.sv
+L0 4
+R7
+R128
+Z134 !s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/rom.sv|
+Z135 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/rom.sv|
+!i113 1
+R11
+R12
+Xrom_sv_unit
+R1
+R2
+VYkf[5;YXOmKRhV]CE_KV73
+r1
+!s85 0
+31
+!i10b 1
+!s100 @FAEQ4Ul2RoCWPT12H:h?1
+IYkf[5;YXOmKRhV]CE_KV73
+!i103 1
+S1
+R0
+R131
+R132
+R133
+L0 1
+R7
+R128
+R134
+R135
+!i113 1
+R11
+R12
+Xthe_pkg
+R1
+!s110 1573177873
+!i10b 1
+!s100 @C4j<adE:[W_9>:G;<3NB3
+IB@g@aC8Pd3J>OkkLK`KVz3
+VB@g@aC8Pd3J>OkkLK`KVz3
+S1
+R0
+w1572064416
+8C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/the_pkg.sv
+FC:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/the_pkg.sv
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1573177872.000000
+!s107 C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/the_pkg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Dell/Desktop/Arqui/MIPSENTREGABLE/the_pkg.sv|
+!i113 1
+R11
+R12
